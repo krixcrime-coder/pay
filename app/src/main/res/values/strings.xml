@@ -1,0 +1,251 @@
+<resources>
+    <string name="app_name">Rush47</string>
+
+    <!-- Backend now hosted on the client's own server -->
+    <string name="api">https://battle.royalflood.site/api/</string>
+
+    <string name="welcome_login">Welcome to,\nLogin</string>
+    <string name="username_hint">Username / Mobile</string>
+    <string name="password_hint">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password? Reset now</string>
+    <string name="dont_have_account">Don\'t have an account? Sign up</string>
+    <string name="username_required">Username is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="login_successfully">Login successful</string>
+    <string name="show_hide_password">Show or hide password</string>
+
+    <string name="register_title">Create Account</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="username_hint_register">Username</string>
+    <string name="mobile_hint">Mobile Number</string>
+    <string name="email_hint">Email</string>
+    <string name="refer_code_hint">Refer Code (optional)</string>
+    <string name="signup">SIGN UP</string>
+    <string name="registration_successfully">Registration successful</string>
+    <string name="already_have_account">Already have an account? Login</string>
+
+    <string name="passwords_not_match">Passwords do not match</string>
+    <string name="password_too_short">Password must be at least 6 characters</string>
+
+    <string-array name="country_codes">
+        <item>IN +91</item>
+    </string-array>
+
+    <string name="reset_password_title">Reset Password</string>
+    <string name="email_or_mobile_hint">Enter Email or Mobile No.</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="verify_otp_title">Verify OTP</string>
+    <string name="otp_note">Enter the verification code we just sent you via SMS/Email.</string>
+    <string name="wrong_otp">Incorrect OTP!</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="new_password_hint">New Password</string>
+    <string name="confirm_new_password_hint">Confirm New Password</string>
+    <string name="submit">Submit</string>
+    <string name="password_reset_successfully">Password reset successful. Please login.</string>
+
+    <string name="home_welcome">Welcome back!</string>
+    <string name="logout">Logout</string>
+
+    <!-- Play tab (dashboard) -->
+    <string name="welcome_back_comma">Welcome Back,</string>
+    <string name="no_game_found">No Game Found.</string>
+    <string name="match_available_">Matches available:</string>
+    <string name="my_matches">My Matches</string>
+    <string name="ongoing">Ongoing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="completed">Completed</string>
+    <string name="results">Results</string>
+    <string name="esports_games">Esports Games</string>
+
+    <!-- Matches feature -->
+    <string name="entry_fee">Entry Fee</string>
+    <string name="prize_pool">Prize Pool</string>
+    <string name="per_kill">Per Kill</string>
+    <string name="join">JOIN</string>
+    <string name="joined">JOINED</string>
+    <string name="match_full">FULL</string>
+    <string name="no_matches_found">No matches found.</string>
+    <string name="entry_fee_colon">Entry Fee :</string>
+    <string name="id_colon">Id :</string>
+    <string name="map_colon">Map :</string>
+    <string name="match_schedule_colon">Match Schedule :</string>
+    <string name="match_type_colon">Match Type :</string>
+    <string name="mode_colon">Mode :</string>
+    <string name="password_colon">Password :</string>
+    <string name="per_kill_colon">Per Kill :</string>
+    <string name="team_colon">Team :</string>
+    <string name="winning_prize_colon">Winning Prize :</string>
+    <string name="about_this_match">About this Match</string>
+    <string name="about_this_match_default_text">Join this match, survive till the end and climb the leaderboard to win real cash prizes. Make sure your room ID and password are entered correctly at match time.</string>
+    <string name="play_now">Play Now</string>
+    <string name="price_details">Price Details</string>
+    <string name="room_detail">Room Detail</string>
+    <string name="no_live_match_found">No live match found</string>
+    <string name="no_upcoming_match_found">No upcoming match found</string>
+    <string name="no_completed_match_found">No completed match found</string>
+    <string name="slots_filled_format">%1$d / %2$d joined</string>
+    <string name="match_details">Match Details</string>
+    <string name="paid">PAID</string>
+    <string name="free">FREE</string>
+    <string name="slots">Slots :</string>
+    <string name="map">Map</string>
+    <string name="match_time_label">Match Time</string>
+    <string name="room_id">Room ID</string>
+    <string name="room_password">Password</string>
+    <string name="room_reveals_soon">Room ID &amp; Password will be shown here closer to match time.</string>
+    <string name="joined_players">Joined Players</string>
+    <string name="confirm_join_title">Join this match?</string>
+    <string name="confirm_join_message_format">Entry fee of %1$s coins will be deducted from your wallet.</string>
+    <string name="yes_join">Yes, Join</string>
+    <string name="insufficient_balance_add_coins">Insufficient wallet balance. Please add coins first.</string>
+    <string name="tab_tournament">Tournament</string>
+    <string name="tab_solo">Solo</string>
+    <string name="match_type_label">Type</string>
+    <string name="match_version_label">Version</string>
+    <string name="click_here_for_id_password">Click here for Id and Password</string>
+
+    <!-- Select Position + Joining Match screens (pulled 1:1 from the
+         original decompiled app so both apps stay identical) -->
+    <string name="select_match_position">Select Match Position</string>
+    <string name="join_now">JOIN NOW</string>
+    <string name="joining_match">Joining Match</string>
+    <string name="your_current_balance__">Your Current Balance :</string>
+    <string name="match_entry_fee_per_person__">Match Entry Fee Per Person :</string>
+    <string name="total_payable_amount__">Total Payable Amount :</string>
+    <string name="selected_position">Selected Position</string>
+    <string name="team">Team</string>
+    <string name="position">Position</string>
+    <string name="player_name">Player Name</string>
+    <string name="add_info">Add info</string>
+    <string name="join_note">Note - Please Enter Your In Game Username/Name.</string>
+    <string name="ign_hint">In Game Username / Name</string>
+    <string name="please_select_a_position">Please select a position first.</string>
+    <string name="please_enter_ign">Please enter your in-game username.</string>
+    <string name="team_format">Team %1$d</string>
+
+    <!-- Bottom navigation (exactly 3 tabs: Earn/Play already existed above for
+         the old 6-tab bar, only Account is new) -->
+    <string name="tab_account">Account</string>
+    <string name="tab_play">Play</string>
+    <string name="tab_result">Result</string>
+    <string name="tab_earn">Earn</string>
+    <string name="tab_me">Me</string>
+
+    <!-- Earn tab -->
+    <string name="earn">Earn</string>
+    <string name="refer_and_earn">Refer &amp; Earn</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="add_money">Add Money</string>
+    <string name="add_money_note">Your request will be reviewed and coins added to your wallet after we confirm the payment. This usually takes a few hours.</string>
+    <string name="withdraw_money">Withdraw Money</string>
+    <string name="withdraw_to_upi">Withdraw to UPI ID</string>
+    <string name="upi_id_hint">yourname@upi</string>
+    <string name="amount_hint">Amount</string>
+    <string name="submit_request">SUBMIT REQUEST</string>
+    <string name="request_submitted">Request submitted. It will be processed shortly.</string>
+    <string name="enter_valid_amount">Please enter a valid amount.</string>
+    <string name="enter_upi_id">Please enter your UPI ID.</string>
+    <string name="you_can_only_withdraw_win_money">You can only withdraw win money, not deposited/join money.</string>
+    <string name="insufficient_win_money">Your win money balance is lower than that amount.</string>
+    <string name="my_referrals">My Referrals</string>
+    <string name="watch_and_earn">Watch &amp; Earn</string>
+    <string name="refer_more_to_earn_more">REFER MORE TO EARN MORE</string>
+    <string name="refer_detail">Share your referral code with friends. When they sign up using your code, they instantly get a welcome bonus in their wallet.</string>
+    <string name="your_referral_code">YOUR REFERRAL CODE</string>
+    <string name="refer_now">REFER NOW</string>
+    <string name="copied_to_clipboard">Referral code copied</string>
+    <string name="password_copied">Password copied to clipboard</string>
+    <string name="total_referrals">Total Referrals</string>
+    <string name="no_referrals_yet">No referrals yet. Share your code to start earning!</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="deposited">Deposited</string>
+    <string name="winning">Winning</string>
+    <string name="bonus">Bonus</string>
+    <string name="win_money">Win money :</string>
+    <string name="join_money">Join money :</string>
+    <string name="earnings">Earnings</string>
+    <string name="payouts">Payouts</string>
+    <string name="wallet_history">WALLET HISTORY</string>
+    <string name="no_transactions_yet">No transactions yet</string>
+    <string name="add">ADD</string>
+    <string name="deposit">Deposit</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="coming_soon">Coming soon</string>
+
+    <!-- Account tab -->
+    <string name="account">Account</string>
+    <string name="my_profile">My Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="customer_support">Customer Support</string>
+    <string name="about_us">About Us</string>
+    <string name="my_order">My Order</string>
+    <string name="my_order_body">Your order history will show up here soon.</string>
+    <string name="my_statistics">My Statistics</string>
+    <string name="stat_matches_played">Matches Played</string>
+    <string name="stat_matches_won">Matches Won</string>
+    <string name="stat_total_kills">Total Kills</string>
+    <string name="stat_total_earnings">Total Earnings</string>
+    <string name="announcement">Announcement</string>
+    <string name="no_announcements">No announcements yet.</string>
+    <string name="top_players">Top Players</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="no_leaderboard_data">No results yet. Play a match to get on the board!</string>
+    <string name="your_rank">Your Rank</string>
+    <string name="my_reward">My Rewards</string>
+    <string name="app_tutorial">App Tutorial</string>
+    <string name="share_app">Share App</string>
+    <string name="terms_and_condition">Terms &amp; Conditions</string>
+    <string name="change_language">Change Language</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="matches">Matches</string>
+    <string name="played">Played</string>
+    <string name="total">Total</string>
+    <string name="killed">Killed</string>
+    <string name="Amount">Amount</string>
+    <string name="Won">Won</string>
+
+    <string name="profile_full_name">Full Name</string>
+    <string name="profile_username">Username</string>
+    <string name="profile_email">Email</string>
+    <string name="profile_mobile">Mobile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="profile_first_name">First Name</string>
+    <string name="profile_last_name">Last Name</string>
+    <string name="profile_mobile_number">Mobile Number</string>
+    <string name="profile_dob">Date of Birth</string>
+    <string name="profile_gender">Gender:</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="update_profile">UPDATE PROFILE</string>
+    <string name="old_password_hint">Old Password</string>
+    <string name="reset">RESET</string>
+    <string name="profile_updated">Profile updated successfully.</string>
+    <string name="profile_load_error">Could not load profile. Pull down to try again.</string>
+    <string name="fill_required_fields">Please fill first name, username and mobile number.</string>
+    <string name="fill_both_passwords">Please fill both password fields.</string>
+
+    <string name="version_prefix">Version</string>
+    <string name="about_us_body">Rush47 is an esports tournament and gaming platform where you can join tournaments, track your matches, and win rewards. Play fair, have fun, and climb the leaderboard!</string>
+
+    <!-- TODO: replace with your real support contact before release -->
+    <string name="support_email">support@rush47.app</string>
+
+    <!-- No Internet screen -->
+    <string name="no_internet_connection">No Internet Connection.\nPlease check your network and try again.</string>
+    <string name="retry">RETRY</string>
+
+    <!-- Choose Language screen -->
+    <string name="choose_language">Choose Language</string>
+    <string name="continue_text">CONTINUE</string>
+
+    <!-- Register - country code picker -->
+    <string name="select_country_code">Select Country Code</string>
+
+    <!-- Transaction Success / Fail screens -->
+    <string name="go_to_home">GO TO HOME</string>
+    <string name="try_again">TRY AGAIN</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Header - same back-arrow toolbar every other screen in this app uses -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/newblue"
+        app:navigationIcon="@drawable/ic_back_arrow"
+        app:titleTextColor="@color/white" />
+
+    <!-- Green title strip - "Select Match Position", same as original -->
+    <TextView
+        android:id="@+id/selectmatchpostiontitleid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/newgreen"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/select_match_position"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/pullToRefreshPosition"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/positionrv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            android:paddingHorizontal="8dp"
+            android:paddingTop="12dp"
+            android:paddingBottom="16dp" />
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+    <!-- Pinned "JOIN NOW" button, same green as original -->
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="0dp"
+        app:cardElevation="4dp">
+
+        <Button
+            android:id="@+id/joinfinal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/newgreen"
+            android:paddingVertical="14dp"
+            android:text="@string/join_now"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

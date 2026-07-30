@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">Rush47</string>
+
+    <string name="welcome_login">आपका स्वागत है,\nलॉगिन करें</string>
+    <string name="username_hint">यूज़रनेम / मोबाइल</string>
+    <string name="password_hint">पासवर्ड</string>
+    <string name="login">लॉगिन</string>
+    <string name="forgot_password">पासवर्ड भूल गए? अभी रीसेट करें</string>
+    <string name="dont_have_account">खाता नहीं है? साइन अप करें</string>
+    <string name="username_required">यूज़रनेम आवश्यक है</string>
+    <string name="password_required">पासवर्ड आवश्यक है</string>
+    <string name="login_successfully">लॉगिन सफल रहा</string>
+    <string name="show_hide_password">पासवर्ड दिखाएं या छुपाएं</string>
+
+    <string name="register_title">खाता बनाएं</string>
+    <string name="first_name_hint">पहला नाम</string>
+    <string name="last_name_hint">अंतिम नाम</string>
+    <string name="username_hint_register">यूज़रनेम</string>
+    <string name="mobile_hint">मोबाइल नंबर</string>
+    <string name="email_hint">ईमेल</string>
+    <string name="refer_code_hint">रेफर कोड (वैकल्पिक)</string>
+    <string name="signup">साइन अप करें</string>
+    <string name="registration_successfully">रजिस्ट्रेशन सफल रहा</string>
+    <string name="already_have_account">पहले से खाता है? लॉगिन करें</string>
+
+    <string name="passwords_not_match">पासवर्ड मेल नहीं खाते</string>
+    <string name="password_too_short">पासवर्ड कम से कम 6 अक्षरों का होना चाहिए</string>
+
+    <string name="reset_password_title">पासवर्ड रीसेट करें</string>
+    <string name="email_or_mobile_hint">ईमेल या मोबाइल नंबर डालें</string>
+    <string name="send_otp">OTP भेजें</string>
+    <string name="cancel">रद्द करें</string>
+
+    <string name="verify_otp_title">OTP सत्यापित करें</string>
+    <string name="otp_note">हमने अभी SMS/ईमेल पर जो वेरिफिकेशन कोड भेजा है, वह डालें।</string>
+    <string name="wrong_otp">गलत OTP!</string>
+    <string name="resend_otp">OTP दोबारा भेजें</string>
+    <string name="new_password_hint">नया पासवर्ड</string>
+    <string name="confirm_new_password_hint">नया पासवर्ड दोबारा डालें</string>
+    <string name="submit">सबमिट करें</string>
+    <string name="password_reset_successfully">पासवर्ड रीसेट सफल रहा। कृपया लॉगिन करें।</string>
+
+    <string name="home_welcome">वापसी पर स्वागत है!</string>
+    <string name="logout">लॉगआउट</string>
+
+    <string name="welcome_back_comma">वापसी पर स्वागत है,</string>
+    <string name="no_game_found">कोई गेम नहीं मिला।</string>
+    <string name="match_available_">उपलब्ध मैच:</string>
+    <string name="my_matches">मेरे मैच</string>
+    <string name="ongoing">चल रहे</string>
+    <string name="upcoming">आगामी</string>
+    <string name="completed">समाप्त</string>
+    <string name="results">परिणाम</string>
+    <string name="esports_games">Esports गेम्स</string>
+
+    <string name="entry_fee">प्रवेश शुल्क</string>
+    <string name="prize_pool">पुरस्कार राशि</string>
+    <string name="per_kill">प्रति किल</string>
+    <string name="join">जॉइन करें</string>
+    <string name="joined">जॉइन हो गया</string>
+    <string name="match_full">फुल</string>
+    <string name="no_matches_found">कोई मैच नहीं मिला।</string>
+    <string name="play_now">अभी खेलें</string>
+    <string name="price_details">कीमत विवरण</string>
+    <string name="room_detail">रूम विवरण</string>
+    <string name="match_details">मैच विवरण</string>
+    <string name="paid">भुगतान</string>
+    <string name="free">मुफ़्त</string>
+    <string name="map">मैप</string>
+    <string name="room_id">रूम आईडी</string>
+    <string name="room_password">पासवर्ड</string>
+    <string name="joined_players">जॉइन किए खिलाड़ी</string>
+    <string name="confirm_join_title">इस मैच में जॉइन करें?</string>
+    <string name="yes_join">हां, जॉइन करें</string>
+    <string name="insufficient_balance_add_coins">वॉलेट बैलेंस कम है। पहले कॉइन जोड़ें।</string>
+
+    <string name="select_match_position">मैच पोज़िशन चुनें</string>
+    <string name="join_now">अभी जॉइन करें</string>
+    <string name="joining_match">मैच जॉइन हो रहा है</string>
+    <string name="selected_position">चयनित पोज़िशन</string>
+    <string name="team">टीम</string>
+    <string name="position">पोज़िशन</string>
+    <string name="player_name">खिलाड़ी का नाम</string>
+    <string name="please_select_a_position">कृपया पहले एक पोज़िशन चुनें।</string>
+    <string name="please_enter_ign">कृपया अपना इन-गेम यूज़रनेम डालें।</string>
+
+    <string name="tab_account">खाता</string>
+    <string name="tab_play">खेलें</string>
+    <string name="tab_result">परिणाम</string>
+    <string name="tab_earn">कमाएं</string>
+    <string name="tab_me">मैं</string>
+
+    <string name="earn">कमाएं</string>
+    <string name="refer_and_earn">रेफर करें और कमाएं</string>
+    <string name="my_wallet">मेरा वॉलेट</string>
+    <string name="add_money">पैसे जोड़ें</string>
+    <string name="withdraw_money">पैसे निकालें</string>
+    <string name="submit_request">रिक्वेस्ट भेजें</string>
+    <string name="request_submitted">रिक्वेस्ट भेज दी गई है। जल्द ही प्रोसेस होगी।</string>
+    <string name="enter_valid_amount">कृपया सही राशि डालें।</string>
+    <string name="my_referrals">मेरे रेफरल</string>
+    <string name="watch_and_earn">देखें और कमाएं</string>
+    <string name="your_referral_code">आपका रेफरल कोड</string>
+    <string name="refer_now">अभी रेफर करें</string>
+    <string name="copied_to_clipboard">रेफरल कोड कॉपी हो गया</string>
+    <string name="total_referrals">कुल रेफरल</string>
+    <string name="total_balance">कुल बैलेंस</string>
+    <string name="deposited">जमा किया गया</string>
+    <string name="winning">जीत</string>
+    <string name="bonus">बोनस</string>
+    <string name="earnings">कमाई</string>
+    <string name="wallet_history">वॉलेट हिस्ट्री</string>
+    <string name="no_transactions_yet">अभी तक कोई लेन-देन नहीं</string>
+    <string name="deposit">जमा</string>
+    <string name="withdraw">निकासी</string>
+
+    <string name="account">खाता</string>
+    <string name="my_profile">मेरी प्रोफाइल</string>
+    <string name="change_password">पासवर्ड बदलें</string>
+    <string name="customer_support">ग्राहक सहायता</string>
+    <string name="about_us">हमारे बारे में</string>
+    <string name="my_order">मेरा ऑर्डर</string>
+    <string name="my_statistics">मेरे आंकड़े</string>
+    <string name="announcement">घोषणा</string>
+    <string name="no_announcements">अभी कोई घोषणा नहीं।</string>
+    <string name="top_players">टॉप खिलाड़ी</string>
+    <string name="leaderboard">लीडरबोर्ड</string>
+    <string name="your_rank">आपकी रैंक</string>
+    <string name="my_reward">मेरे रिवॉर्ड्स</string>
+    <string name="app_tutorial">ऐप ट्यूटोरियल</string>
+    <string name="share_app">ऐप शेयर करें</string>
+    <string name="terms_and_condition">नियम और शर्तें</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="push_notification">पुश नोटिफिकेशन</string>
+
+    <string name="profile_full_name">पूरा नाम</string>
+    <string name="profile_username">यूज़रनेम</string>
+    <string name="profile_email">ईमेल</string>
+    <string name="profile_mobile">मोबाइल</string>
+    <string name="edit_profile">प्रोफाइल संपादित करें</string>
+    <string name="update_profile">प्रोफाइल अपडेट करें</string>
+    <string name="reset">रीसेट</string>
+    <string name="profile_updated">प्रोफाइल सफलतापूर्वक अपडेट हुई।</string>
+
+    <!-- No Internet screen -->
+    <string name="no_internet_connection">इंटरनेट कनेक्शन नहीं है।\nकृपया अपना नेटवर्क जांचें और दोबारा प्रयास करें।</string>
+    <string name="retry">फिर से कोशिश करें</string>
+
+    <!-- Choose Language screen -->
+    <string name="choose_language">भाषा चुनें</string>
+    <string name="continue_text">जारी रखें</string>
+
+    <!-- Register - country code picker -->
+    <string name="select_country_code">देश कोड चुनें</string>
+
+    <!-- Transaction Success / Fail screens -->
+    <string name="go_to_home">होम पर जाएं</string>
+    <string name="try_again">फिर से कोशिश करें</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_earn"
+        android:icon="@drawable/ic_nav_coin"
+        android:title="@string/tab_earn" />
+
+    <item
+        android:id="@+id/nav_play"
+        android:icon="@drawable/ic_nav_play"
+        android:title="@string/tab_play" />
+
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/ic_nav_account"
+        android:title="@string/tab_account" />
+
+</menu>
