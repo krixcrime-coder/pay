@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+<!--    <color name="colorPrimaryDark">#00574B</color>-->
+    <color name="colorPrimaryDark">#209cee</color>
+<!--    <color name="colorAccent">#D81B60</color>-->
+    <color name="colorAccent">#209cee</color>
+
+    <color name="newdarkgrey">#959595</color>
+    <color name="newblack">#343a40</color>
+    <color name="newred">#ef7a78</color>
+    <color name="newgreen">#5eceb3</color>
+    <color name="neworange">#FF7901</color>
+    <color name="newblue">#209cee</color>
+    <color name="viewbackground">#77DBDBDB</color>
+    <color name="newlightgreen">#835ECEB3</color>
+    <color name="newdisablegreen">#87D5C2</color>
+    <color name="newdisableblack">#788694</color>
+
+    <!--    <color name="newblue">#363636</color>-->
+
+    <color name="color0">#F75B59</color>
+    <color name="color1">#F75B59</color>
+    <color name="color2">#0799FD</color>
+    <color name="color3">#ee6002</color>
+    <color name="color4">#6002ee</color>
+    <color name="color5">#41c300</color>
+
+    <color name="background">#A5A4A4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#39d1ba</color>
+    <color name="dot_dark_screen2">#14a895</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#8de7f9</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+
+    <array name="array_dot_active">
+        <item>@color/newred</item>
+        <item>@color/newred</item>
+        <item>@color/newred</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/newblue</item>
+        <item>@color/newblue</item>
+        <item>@color/newblue</item>
+    </array>
+</resources>

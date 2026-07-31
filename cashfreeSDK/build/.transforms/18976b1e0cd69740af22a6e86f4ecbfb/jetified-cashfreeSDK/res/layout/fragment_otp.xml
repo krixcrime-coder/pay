@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_gravity="top"
+    android:padding="@dimen/modal_height_div"
+    android:background="@android:color/white">
+
+
+    <TextView
+        android:id="@+id/topLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/modal_height_div"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif-medium"
+        android:layout_alignParentTop="true"
+        android:text="Waiting for OTP"
+        android:textColor="@android:color/darker_gray"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        />
+    <TextView
+        android:id="@+id/otpET"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:paddingTop="@dimen/modal_height_div"
+        android:paddingBottom="@dimen/modal_height_div"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/topLabel"/>
+
+    <ProgressBar
+        android:id="@+id/loader"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/topLabel"
+        android:layout_above="@id/notifTV"
+        android:progressTint="#2177e7"
+        android:indeterminateTint="#2177e7"/>
+
+    <TextView
+        android:id="@+id/notifTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-medium"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        tools:text="Please click on Allow when prompted to share the OTP."
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_marginBottom="@dimen/modal_height_div"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/otpET" />
+
+</RelativeLayout>

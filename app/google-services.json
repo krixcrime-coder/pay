@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "936321671626",
+    "project_id": "battle-mania-v5-81879",
+    "storage_bucket": "battle-mania-v5-81879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936321671626:android:8fdd67bdc6a63989c7ef33",
+        "android_client_info": {
+          "package_name": "com.di.battlemaniaV5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936321671626-sahvn0uup59usbarvor490anblrpgo5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.di.battlemaniaV5",
+            "certificate_hash": "84fd7cdb93765ee35f804b3769af8e9eee30f655"
+          }
+        },
+        {
+          "client_id": "936321671626-jh8gg62nqahpe2a376ppvktuv8a27ejt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0sq3gXKgQKluXtMM6Jv9fAnutyG3PrPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936321671626-jh8gg62nqahpe2a376ppvktuv8a27ejt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

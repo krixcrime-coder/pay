@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="10dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/no_mystatistics"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="##"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="@color/newblack"
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title_mystatistics"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Match title"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="@color/newblack"
+            android:textStyle="bold"
+            />
+
+
+        <TextView
+            android:id="@+id/time_mystatistics"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="@color/newblack"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/paid"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:gravity="center"
+        android:text="##"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="@color/newblack"
+        />
+
+    <TextView
+        android:id="@+id/won"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:text="##"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="@color/newblack"
+        />
+    </LinearLayout>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:background="#DADADA" />
+
+
+
+
+</LinearLayout>

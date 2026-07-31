@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/sv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/lotterytitledesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:paddingBottom="0dp"
+                android:text="Lottery title &amp; number"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                android:textColor="@color/newgreen"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:id="@+id/lotterytimedesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:drawableLeft="@drawable/lottery_time"
+                android:drawablePadding="25dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="0dp"
+                android:text="@string/result_on"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                android:textColor="@color/newblack"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:id="@+id/lotteryplayfordesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:drawableLeft="@drawable/trophy"
+                android:drawablePadding="25dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="0dp"
+                android:text="@string/play_for"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                android:textColor="@color/newblack"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:id="@+id/lotteryfeedesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:drawableLeft="@drawable/entryfeeicon"
+                android:drawablePadding="25dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="0dp"
+                android:text="@string/fees"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                android:textColor="@color/newblack"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/aboutlotterytitleid"
+                android:paddingTop="10dp"
+                android:paddingBottom="0dp"
+                android:text="@string/about_lottery"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                android:textColor="@color/newgreen"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+
+                android:id="@+id/aboutlottery"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="About this Match"
+                android:textColor="@color/newblack"
+
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

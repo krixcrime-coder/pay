@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battle Mania V5</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="api">https://yourdomain/api/</string>
+    <string name="Rs" formatted="false" translatable="true">\u20B9</string>
+    <string name="facebook_app_id">874043283359634</string>
+    <string name="fb_login_protocol_scheme">fb874043283359634</string>
+    <string name="admob_app_id">ca-app-pub-8534325609823184~6377822467</string>
+    <string name="admob_baner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_reward">ca-app-pub-3940256099942544/5224354917</string>
+
+    <!--SelectedLanguageAcivity-->
+    <string name="choose_language">Choose Language</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="arabic">عربى</string>
+    <string name="hindi_e">Hindi</string>
+    <string name="arabic_e">Arabic</string>
+
+    <string name="qr_code">qr_code</string>
+    <string name="enter_your_info">Enter your info</string>
+
+    <!--For language-->
+    <!--AddMoneyActivity-->
+    <string name="payment_method_not_available">طريقة الدفع غير متوفرة</string>
+    <string name="amount_bracket">كمية</string>
+    <string name="error">خطأ!</string>
+    <string name="enter_minmum">أدخل الحد الأدنى </string>
+    <string name="ok">نعم</string>
+    <string name="please_update_profile_with_email">يرجى تحديث الملف الشخصي مع البريد الإلكتروني.</string>
+    <string name="please_enter_card_number">الرجاء إدخال رقم البطاقة</string>
+    <string name="please_enter_cvv">الرجاء إدخال CVV</string>
+    <string name="please_enter_expiry_month">الرجاء إدخال شهر انتهاء الصلاحية</string>
+    <string name="please_enter_expiry_year">الرجاء إدخال سنة انتهاء الصلاحية</string>
+    <string name="please_update_profile_with_email_and_mobile_number">يرجى تحديث الملف الشخصي مع البريد الإلكتروني ورقم الهاتف المحمول.</string>
+    <string name="please_update_profile_with_mobile_number">يرجى تحديث الملف الشخصي مع رقم الهاتف المحمول.</string>
+    <string name="google_pay_not_installed">Google Pay غير مثبت.</string>
+    <string name="payment_transaction_failed">فشل معاملة الدفع </string>
+    <string name="pay_for_">دفع ل </string>
+    <string name="_wallet"> محفظة جيب</string>
+    <string name="cancel">يلغي</string>
+    <string name="invalid">غير صالح</string>
+    <string name="tron_desc">يرجى مسح رمز الاستجابة السريعة ضوئيًا أو نسخ عنوان العقد خلال مدة زمنية معينة وإضافة رمز مميز في هذه المحفظة بعد المتابعة التالية.</string>
+    <string name="payment_cancelled">تم إلغاء الدفع</string>
+    <string name="you_will_get_">سوف تحصل على </string>
+    <string name="you_will_pay_">سوف تدفع </string>
+    <!--AppUpdateActivity-->
+    <string name="downloading...">جارى التحميل...</string>
+    <string name="permission_needed">مطلوب إذن</string>
+    <string name="this_permission_is_needed_because_of_download_the_latest_version_of_">هذا الإذن مطلوب بسبب تنزيل أحدث إصدار من </string>
+    <string name="updating...">جارٍ التحديث ....</string>
+    <string name="download_completed">انتها التحميل</string>
+    <string name="storage_permission_denied">تم رفض إذن التخزين</string>
+    <string name="permission_granted">تم تأمين التصريح</string>
+    <string name="install_permission_denied">تم رفض إذن التثبيت</string>
+    <string name="app_not_found_in_download">التطبيق غير موجود في التنزيل</string>
+    <!--CreateNewAccount-->
+    <string name="username_required...">اسم المستخدم (مطلوب...</string>
+    <string name="no_space_allowed">لا توجد مساحة مسموح بها</string>
+    <string name="please_select_country_code">الرجاء تحديد رمز الدولة</string>
+    <string name="mobile_number_required...">رقم الهاتف المحمول مطلوب ...</string>
+    <string name="wrong_mobile_number...">رقم جوال خاطئ ...</string>
+    <string name="email_required...">البريد الإلكتروني (مطلوب...</string>
+    <string name="wrong_email_address...">عنوان بريد إلكتروني خاطئ...</string>
+    <string name="please_select_country">الرجاء تحديد الدولة</string>
+    <string name="password_required...">كلمة المرور مطلوبة...</string>
+    <string name="retype_your_password...">أعد كتابة كلمة المرور الخاصة بك ...</string>
+    <string name="password_not_matched...">كلمة المرور غير متطابقة ...</string>
+    <string name="otp_send_successfully">أرسل OTP بنجاح</string>
+    <string name="failed">باءت بالفشل</string>
+    <string name="registration_successfully">التسجيل بنجاح</string>
+    <!--CustomerSupportActivity-->
+    <string name="address__">عنوان : </string>
+    <string name="additional__">معلومة اضافية : </string>
+    <string name="phone__">هاتف : </string>
+    <string name="email__">بريد إلكتروني : </string>
+    <string name="instagram__">انستغرام : </string>
+    <string name="street__">شارع : </string>
+    <string name="time__">زمن : </string>
+    <string name="send_mail...">ارسل بريد...</string>
+    <string name="there_are_no_email_apps_installed">لا توجد تطبيقات بريد إلكتروني مثبتة.</string>
+    <string name="whatsapp_not_found">WhatsApp غير موجود</string>
+    <!--FirstActivity-->
+    <string name="your_account_is_blocked_by_admin">تم حظر حسابك من قبل المسؤول</string>
+    <string name="new_update_available">تحديث جديد متاح ...</string>
+    <string name="later">لاحقا</string>
+    <string name="update_now">تحديث الان</string>
+    <string name="announcement">إعلان :</string>
+    <string name="currently_app_server_is_under_maintanance">خادم التطبيق الحالي قيد الصيانة.</string>
+    <string name="exit">مخرج</string>
+    <!--FpOtpVerificationActivity-->
+    <string name="wrong_otp">OTP خاطئ.</string>
+    <string name="resend">إعادة إرسال</string>
+    <string name="enter_new_password">أدخل كلمة مرور جديدة</string>
+    <string name="retype_new_password">أعد كتابة كلمة السر الجديدة</string>
+    <string name="password_not_match">كلمة السر ليست جيدة</string>
+    <!--HomeActivity-->
+    <string name="earn">يكسب</string>
+    <string name="play">لعب</string>
+    <string name="account">حساب</string>
+    <string name="press_again_to_exit">اضغط مرة أخرى للخروج</string>
+    <!--JoiningMatch-->
+    <string name="_name"> اسم</string>
+    <string name="your_current_balance__">رصيدك الحالي : </string>
+    <string name="match_entry_fee_per_person__">رسوم دخول المباراة لكل شخص : </string>
+    <string name="total_payable_amount__">إجمالي المبلغ المستحق : </string>
+    <string name="add_info">أضف معلومات</string>
+    <string name="player_name_required">اسم اللاعب مطلوب</string>
+    <string name="team_">فريق </string>
+    <string name="please_enter_player_name">الرجاء إدخال اسم اللاعب</string>
+    <string name="please_enter_unique_player_name">الرجاء إدخال اسم لاعب فريد</string>
+    <string name="ONGOING">جاري التنفيذ</string>
+    <string name="RESULTS">النتائج</string>
+    <!--MainActivity-->
+    <string name="forgot_password__reset_now">هل نسيت كلمة السر؟ إعادة التعيين الآن</string>
+    <string name="mobile_number_successfully_verified">تم التحقق من رقم الهاتف المحمول بنجاح</string>
+    <string name="login_successfully">تم تسجيل الدخول بنجاح</string>
+    <string name="we_will_sent_you_otp_in_">سنرسل لك OTP في </string>
+    <!--MyProfileActivity-->
+    <string name="verified">تم التحقق</string>
+    <string name="verify">تحقق</string>
+    <string name="please_verify_mobile_number">يرجى التحقق من رقم الهاتف المحمول</string>
+    <string name="select_country">حدد الدولة</string>
+    <string name="enter_password">أدخل كلمة المرور</string>
+    <!--MyReferralsActivity-->
+    <string name="referrals">الإحالات</string>
+    <string name="earnings">أرباح</string>
+    <!--MyRewardedActivity-->
+    <string name="rewards">المكافآت</string>
+    <!--MyWalletActivity-->
+    <string name="win_money">اربح المال : </string>
+    <string name="join_money">انضم إلى المال : </string>
+    <!--ProductOrderActivity-->
+    <string name="please_enter_your_name">يرجى إدخال اسمك</string>
+    <string name="please_enter_your_address">الرجاء إدخال عنوانك</string>
+    <!--ReferandEarnActivity-->
+    <string name="promo_code">رمز ترويجي</string>
+    <string name="copid_to_clipboard">نسخ إلى الحافظة</string>
+    <string name="promo_code_copied_successfully">تم نسخ الرمز الترويجي بنجاح</string>
+    <string name="referral_code">كود الإحالة</string>
+    <string name="share_using">شارك باستخدام</string>
+    <!--SelectedGameActivity-->
+    <string name="ongoing">جاري التنفيذ</string>
+    <string name="upcoming">القادمة</string>
+    <string name="results">النتائج</string>
+    <!--SelectedLotteryActivity-->
+    <string name="description">وصف</string>
+    <string name="joined_member">عضو منضم</string>
+    <string name="register">تسجيل</string>
+    <string name="registered">مسجل</string>
+    <string name="full">ممتلىء</string>
+    <string name="you_are_already_registered">انت مسجل مسبقا.</string>
+    <string name="organised_on">نظمت في</string>
+    <string name="match">تطابق</string>
+    <string name="winning_prize">الجائزة الفائزة</string>
+    <string name="per_kill">الجائزة الفائزة</string>
+    <string name="entry_fee">رسم الدخول</string>
+    <!--SelectedTournamentActivity-->
+    <string name="match_full">المباراة كاملة</string>
+    <string name="already_joined">انضم بالفعل</string>
+    <string name="spectate">متفرج</string>
+    <string name="please_select_any_position">الرجاء تحديد أي منصب</string>
+    <string name="you_can_select_only">يمكنك الاختيار فقط</string>
+    <string name="spot_in_solo.">بقعة في سولو.</string>
+    <string name="spot_in_duo.">بقعة في Duo.</string>
+    <string name="spot_in_squad.">بقعة في فرقة.</string>
+    <string name="spot_in_squad5.">بقعة في Squad5.</string>
+    <!--TansactionSuccessActivity-->
+    <string name="transaction_id">رقم المعاملة</string>
+    <string name="transaction_amount_is">مبلغ الصفقة هو</string>
+    <!--WatchAndEarnActivity-->
+    <string name="please_wait">أرجو الإنتظار</string>
+    <string name="task_completed">تمت المهمة</string>
+    <string name="watch_now">شاهد الآن</string>
+    <string name="unable_to_load_video">لا توجد مهمة فيديو متاحة لك</string>
+    <!--WithdrawMoneyActivity-->
+    <string name="withdraw_method_not_available">طريقة السحب غير متوفرة</string>
+    <string name="mobile_number">رقم الهاتف المحمول</string>
+    <string name="email">بريد إلكتروني</string>
+    <string name="upi_id">معرف UPI</string>
+    <string name="withdraw_wallet_address">عنوان المحفظة</string>
+    <string name="withdraw_to_">سحب إلى </string>
+    <string name="please_enter_mobile_number">الرجاء إدخال رقم الهاتف المحمول</string>
+    <string name="please_enter_email">الرجاء إدخال البريد الإلكتروني</string>
+    <string name="please_enter_wallet_address">الرجاء إدخال عنوان المحفظة</string>
+    <string name="please_enter_valid_wallet_address">الرجاء إدخال عنوان محفظة صالح</string>
+    <string name="please_enter_upi_id">الرجاء إدخال معرف UPI</string>
+    <string name="success">نجاح!</string>
+
+    <!--AllgameResultAdapter-->
+    <string name="PRIZE_POOL">مجموع جوائز</string>
+    <string name="PER_KILL">لكل قتل</string>
+    <string name="NOT_JOINED">لم يتم الانضمام</string>
+    <string name="JOINED">انضم</string>
+    <!--LotteryAdapter-->
+    <string name="lottery">اليانصيب</string>
+    <!--LotteryResultAdapter-->
+    <string name="won_prize__">فاز بالجائزة : </string>
+    <string name="draw_on">ارسم على</string>
+    <string name="won_by">فاز بها</string>
+    <!--TournamentAdapter-->
+    <string name="MATCH_FULL">المباراة كاملة</string>
+    <string name="you_are_already_joined">لقد انضممت بالفعل</string>
+    <!--TransactionAdapter-->
+    <string name="debit">دين</string>
+    <string name="credit">الإئتمان</string>
+    <string name="pending">قيد الانتظار</string>
+    <!--OrderAdapter-->
+    <string name="price__">سعر : </string>
+    <!--FragmentSelectedLotteryDescription-->
+    <string name="result_on">النتيجة تشغيل</string>
+    <string name="play_for">اللعب لصالح</string>
+    <string name="fees">مصاريف</string>
+    <!--FragmentSelectedLotteryJoinedeMember-->
+    <string name="winner">الفائز</string>
+    <!--FragmentSelectedTournamentDescription-->
+    <string name="PAID">دفع</string>
+    <string name="FREE">مجانا</string>
+    <string name="room_id">معرف الغرفة</string>
+    <string name="room_id_copied_successfully">تم نسخ معرف الغرفة بنجاح</string>
+    <string name="room_password">كلمة المرور الغرفة</string>
+    <string name="room_password_copied_successfully">تم نسخ كلمة مرور الغرفة بنجاح</string>
+    <string name="edit_playername">تحرير اسم التشغيل</string>
+    <string name="save">يحفظ</string>
+    <!--MeFragment-->
+    <string name="version">إصدار</string>
+    <string name="log_out_successfully">تم تسجيل الخروج بنجاح</string>
+    <!--PlayFragment-->
+    <string name="match_available_">التطابقات المتاحة: </string>
+    <string name="no_announcement_available">لا يوجد إعلان متاح</string>
+
+    <!--activity_aboutus-->
+    <string name="about_us">معلومات عنا</string>
+    <!--activity_add_money-->
+    <string name="add_money">إضافة المال</string>
+    <string name="ADD_MONEY">إضافة المال</string>
+    <string name="paystack_note">ملاحظة: \ n للاختبار ، استخدم \ n رقم البطاقة: 4084084084084081 \ n CVV: 408 \ n تاريخ انتهاء الصلاحية وسنة انتهاء الصلاحية: أي وقت لاحق</string>
+    <!--activity_announcement-->
+    <string name="Announcement">إعلان</string>
+    <!--activity_app_update-->
+    <string name="app_update">تحديث التطبيق</string>
+    <!--activity_create_new_account-->
+    <string name="username">اسم المستخدم *</string>
+    <string name="code">شفرة</string>
+    <string name="mobile">التليفون المحمول *</string>
+    <string name="Email">بريد إلكتروني *</string>
+    <string name="country">دولة</string>
+    <string name="password">كلمه السر *</string>
+    <string name="SIGNUP">اشتراك</string>
+    <string name="LOGIN">تسجيل الدخول</string>
+    <!--activity_customer_support-->
+    <string name="customer_support">دعم العملاء</string>
+    <!--activity_fp_otp_verification-->
+    <string name="verification">تحقق</string>
+    <string name="otp_note">أدخل رمز التحقق الذي أرسلناه لك للتو عبر الرسائل القصيرة / البريد الإلكتروني.</string>
+    <string name="otp_note_2">إذا لم تتلق رمزًا!</string>
+    <!--activity_howto-->
+    <string name="app_tutorial">البرنامج التعليمي للتطبيق</string>
+    <string name="change_language">تغيير اللغة</string>
+    <!--activity_introduction-->
+    <string name="dont_have_an_account">ليس لديك حساب؟</string>
+    <string name="already_a_user">بالفعل مستخدم؟</string>
+    <!--activity_joining_match-->
+    <string name="joining_match">الانضمام إلى المباراة</string>
+    <string name="selected_position">الوظيفة المختارة</string>
+    <string name="team">فريق</string>
+    <string name="position">موضع</string>
+    <string name="player_name">اسم اللاعب</string>
+    <string name="join">انضم</string>
+    <string name="join_note">ملاحظة - الرجاء إدخال اسم المستخدم / الاسم الخاص بك في اللعبة.</string>
+    <!--activity_leaderboard-->
+    <string name="leaderboard">ليدربورد</string>
+    <string name="Username">اسم المستخدم</string>
+    <string name="total_referral">إجمالي الإحالة</string>
+    <!--activity_main-->
+    <string name="login">تسجيل الدخول</string>
+    <string name="Password">كلمه السر</string>
+    <string name="continue_with_facebook">تواصل مع الفيسبوك</string>
+    <string name="continue_with_google">تواصل مع جوجل</string>
+    <string name="create_new_account">انشاء حساب جديد</string>
+    <!--activity_my_profile-->
+    <string name="my_profile">ملفي</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="first_name">الاسم الأول</string>
+    <string name="last_name">الكنية</string>
+    <string name="email_address">عنوان البريد الإلكتروني</string>
+    <string name="date_of_birth">تاريخ الولادة</string>
+    <string name="gender">جنس:</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="country__">دولة : </string>
+    <string name="update_profile">تحديث الملف</string>
+    <string name="reset_password">إعادة تعيين كلمة المرور</string>
+    <string name="old_password">كلمة سر قديمة</string>
+    <string name="new_password">كلمة السر الجديدة</string>
+    <string name="retype_new_pass">أعد كتابة كلمة السر الجديدة</string>
+    <string name="reset">إعادة ضبط</string>
+    <!--activity_my_referrals-->
+    <string name="my_referrals">إحالاتي</string>
+    <string name="my_referrals_summary">ملخص الإحالات الخاصة بي</string>
+    <string name="my_referrals_list">قائمة الإحالات الخاصة بي</string>
+    <string name="date">تاريخ</string>
+    <string name="status">حالة</string>
+    <string name="no_referrals_found">لم يتم العثور على إحالات.</string>
+    <!--activity_my_rewarded-->
+    <string name="my_reward">مكافآتي</string>
+    <string name="my_rewards_summary">ملخص مكافآتي</string>
+    <string name="my_rewards_list">قائمة مكافآتي</string>
+    <string name="no_rewards_yet">لا مكافآت حتى الآن.</string>
+    <!--activity_my_statistics-->
+    <string name="my_statistics">إحصائياتي</string>
+    <string name="match_info">معلومات المباراة</string>
+    <string name="paid">مدفوع</string>
+    <string name="won">وون</string>
+    <!--activity_my_wallet-->
+    <string name="my_wallet">محفظتى</string>
+    <string name="add">يضيف</string>
+    <string name="withdraw">ينسحب</string>
+    <string name="payouts">المدفوعات</string>
+    <string name="wallet_history">تاريخ المحفظة</string>
+    <string name="total_balance">إجمالي الرصيد</string>
+    <!--activity_no_internet-->
+    <string name="no_internet_connection">لا يوجد اتصال بالإنترنت.</string>
+    <!--activity_offline_payment-->
+    <string name="payment_desc">وصف الدفع</string>
+    <!--activity_product-->
+    <string name="shop_now">تسوق الآن</string>
+    <!--activity_product_order-->
+    <string name="full_name">الاسم بالكامل</string>
+    <string name="address">عنوان</string>
+    <string name="additional">معلومة اضافية</string>
+    <string name="buy_now">اشتري الآن</string>
+    <!--activity_referand_earn-->
+    <string name="refer_more_to_earn_more">ارجع إلى المزيد لتكسب المزيد</string>
+    <string name="your_referral_code">رمز الإحالة الخاص بك</string>
+    <string name="refer_now">راجع الآن</string>
+    <!--activity_select_match_position-->
+    <string name="select_match_position">حدد موقف المباراة</string>
+    <string name="join_now">نضم الان</string>
+    <!--activity_selected_result-->
+    <string name="match_result">نتيجة المباراة</string>
+    <string name="kills">يقتل</string>
+    <string name="winning">الفوز</string>
+    <string name="full_result">النتيجة الكاملة</string>
+    <!--activity_selected_tournament-->
+    <string name="Join_now">نضم الان</string>
+    <!--activity_single_product-->
+    <string name="product_details">تفاصيل المنتج</string>
+    <!--activity_success_join-->
+    <string name="you_have_joined_successfully">لقد انضممت بنجاح.</string>
+    <string name="home">منزل، بيت</string>
+    <!--activity_success_order-->
+    <string name="order_placed_successfully">تم تقديم الطلب بنجاح.</string>
+    <!--activity_tansaction_success-->
+    <string name="your_transaction_is_success">معاملتك هي النجاح.</string>
+    <!--activity_termsand_condition-->
+    <string name="terms_and_condition">شروط وأمبير. الظروف</string>
+    <!--activity_top_player-->
+    <string name="top_players">كبار اللاعبين</string>
+    <!--activity_transaction_fail-->
+    <string name="your_transaction_is_fail">معاملتك فاشلة.</string>
+    <!--activity_watch_and_earn-->
+    <string name="watch_more_to_earn_more">شاهد المزيد لتكسب المزيد</string>
+    <string name="complete_tast">أكمل المهمة</string>
+    <!--activity_withdraw_money-->
+    <string name="withdraw_money">سحب الأموال</string>
+    <string name="Amount">كمية</string>
+    <string name="withdraw_to">سحب إلى:</string>
+    <string name="you_can_only_withdraw_win_money">يمكنك فقط سحب المال.</string>
+    <!--activity_player_details_data-->
+    <string name="join_match">الانضمام إلى المباراة</string>
+    <string name="make_sure_you_have_entered_correct_information">تأكد من إدخال المعلومات الصحيحة</string>
+    <!--allgameresultdata-->
+    <string name="watch_match">يشاهد </string>
+    <!--dobpicker-->
+    <string name="set">جلس</string>
+    <!--enter_mobile_dialog-->
+    <string name="submit">إرسال</string>
+    <!--fragment_selectedlottery_description-->
+    <string name="about_lottery">حول اليانصيب</string>
+    <!--fragment_selectedlottery_joinedmember-->
+    <string name="no_member_joined_yet">لم ينضم أي عضو حتى الآن</string>
+    <!--fragment_selectedtournament_description-->
+    <string name="Team__">فريق : </string>
+    <string name="Entry_Fee_">رسم الدخول : </string>
+    <string name="Mode__">الوضع : </string>
+    <string name="Match_Type__">نوع مباراة : </string>
+    <string name="Map__">خريطة : </string>
+    <string name="Match_Schedule__">جدول المباراة : </string>
+    <string name="price_details">تفاصيل السعر</string>
+    <string name="Winning_Prize__">الجائزة الفائزة : </string>
+    <string name="Per_Kill__">لكل قتل : </string>
+    <string name="about_this_match">حول هذه المباراة</string>
+    <string name="play_now">العب الان</string>
+    <string name="Password__">كلمه السر : </string>
+    <string name="Id__">هوية شخصية : </string>
+    <string name="room_detail">تفاصيل الغرفة</string>
+    <string name="matchprivaDesc_detail">تطابق التفاصيل الخاصة</string>
+    <!--howto_view-->
+    <string name="play_in_youtube">العب في يوتيوب</string>
+    <!--introduction1-->
+    <string name="select_a_game">اختر لعبة</string>
+    <string name="intro1desc">انضم إلى مسابقة لعبتك المفضلة واربح أموالًا حقيقية</string>
+    <!--introduction2-->
+    <string name="join_a_match">انضم إلى المباراة</string>
+    <string name="intro2desc">محتوى حسب طريقة اللعب الخاصة بك مثل SOLO أو DUO أو SQUA</string>
+    <!--introduction3-->
+    <string name="Reder_And_Earn">الرجوع وأمبير. يكسب</string>
+    <string name="intro3desc">ادعُ أصدقاءك للعب لعبتهم المفضلة واحصل على المكافآت</string>
+    <!--me_home-->
+    <string name="me">أنا</string>
+    <string name="balance">توازن</string>
+    <string name="matches">اعواد الكبريت</string>
+    <string name="played">لعب</string>
+    <string name="total">مجموع</string>
+    <string name="killed">قتل</string>
+    <string name="Won">وون</string>
+    <string name="push_notification">دفع الإخطار</string>
+    <string name="my_matches">المباريات الخاصة بي</string>
+    <string name="Anouncement">إعلان</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="logout">تسجيل خروج</string>
+    <!--ongoing_home-->
+    <string name="no_live_match_found">لم يتم العثور على تطابق مباشر.</string>
+    <!--play_home-->
+    <string name="no_game_found">لم يتم العثور على لعبة.</string>
+    <!--resetpassword-->
+    <string name="email_mobile_no">البريد الإلكتروني / رقم الجوال</string>
+    <!--result_home-->
+    <string name="no_completed_match_found">لم يتم العثور على تطابق كامل.</string>
+    <!--tournament_data-->
+    <string name="JOIN">انضم</string>
+    <!--upcoming_home-->
+    <string name="no_upcoming_match_found">لم يتم العثور على مباراة قادمة.</string>
+    <string name="no_lottery_result_found">لم يتم العثور على نتيجة يانصيب.</string>
+    <string name="no_ongoing_lottery_found.">لم يتم العثور على يانصيب مستمر.</string>
+    <!--activity_my_order-->
+    <string name="my_order">طلبي</string>
+    <!--activity_single_order-->
+    <string name="name">اسم : </string>
+    <string name="status__">حالة : </string>
+    <string name="date__">تاريخ الطلب : </string>
+    <string name="track_order">ترتيب المسار : </string>
+    <!--showcase text-->
+    <string name="show_case_1">انقر هنا لإظهار قائمة دورات اللعبة المحددة</string>
+    <string name="show_case_2">انقر هنا لإظهار محفظتك</string>
+    <string name="show_case_3">اضغط هنا للانضمام إلى هذه البطولة</string>
+    <string name="show_case_4">اضغط هنا لإضافة نقاط في المحفظة</string>
+    <string name="show_case_5">اضغط هنا لسحب النقاط من المحفظة</string>
+    <string name="addchallge">New Contest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ongoingludo">ONGOING</string>
+    <string name="mycontest">MY CONTEST</string>
+    <string name="resultsludo">RESULTS</string>
+
+</resources>
