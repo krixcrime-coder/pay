@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="1234567890" />
+        <option name="name" value="Unnamed-0" />
+        <option name="packageNamePattern" value="" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <target>android-33</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Unnamed-0" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14f97b31-0f2b-452d-8695-31b93af4b67a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[FA7AD1A00087]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Battle Mania V5" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Ashutosh\xyz.jks" />
+    <option name="KEY_ALIAS" value="xyz" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="di_ashutosh &lt;ashutosh@developerinfotech.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1YQpJirQLf1uGuxFtmOGWvxPSp2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
+    <property name="ApkExportedModule" value="Battle_Mania_V4.app" />
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-22T12:02:20.464Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\Ashutosh\Desktop\DI\BattleManiaPlus\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="STRING" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$/../.." />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="4DK7V4Y5RSQCS44H&#10;Pixel_2_API_29" />
+    <property name="UI_DESIGNER_EDITOR_MODE.LayeredImageEditor-LayersManager-LayeredImageEditorPanel.SHOW" value="false" />
+    <property name="algorithm" value="Scalr" />
+    <property name="android-custom-viewC:/Users/Ashutosh/Desktop/DI/BattleManiaV3/app/src/main/java/com/di/battlemaniaV3/utils/KKViewPager.java_SELECTED" value="KKViewPager" />
+    <property name="android-custom-viewC:/Users/abcd/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/androidx/viewpager/widget/ViewPager.java_SELECTED" value="ViewPager" />
+    <property name="android-custom-viewC:/Users/abcd/AppData/Local/Android/Sdk/sources/android-30/android/view/ViewGroup.java_SELECTED" value="ViewGroup" />
+    <property name="android-custom-viewC:/Users/abcd/AppData/Local/Android/Sdk/sources/android-30/android/view/ViewGroup.java_ViewGroup_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/abcd/AppData/Local/Android/Sdk/sources/android-30/android/widget/LinearLayout.java_LinearLayout_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/abcd/AppData/Local/Android/Sdk/sources/android-30/android/widget/LinearLayout.java_SELECTED" value="LinearLayout" />
+    <property name="android-custom-viewC:/Users/abcd/AppData/Local/Android/Sdk/sources/android-30/android/widget/RadioButton.java_RadioButton_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewC:/Users/abcd/AppData/Local/Android/Sdk/sources/android-30/android/widget/RadioButton.java_SELECTED" value="RadioButton" />
+    <property name="android-custom-viewC:/Users/abcd/Desktop/Ak/androidprojects/BattleManiaV3/app/src/main/java/com/di/battlemaniaV3/utils/KKViewPager.java_SELECTED" value="KKViewPager" />
+    <property name="android-custom-viewC:/Users/abcd/Desktop/Ak/andrtoidprojects/BattleManiaV3/app/src/main/java/com/di/battlemaniaV3/utils/KKViewPager.java_SELECTED" value="KKViewPager" />
+    <property name="android-custom-viewC:/Users/admin/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/admin/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_View_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewE:/NikunjAndroidProject/BattleManiaV4Fille/BattleManiaV4/app/src/main/java/com/di/battlemaniaV4/utils/KKViewPager.java_KKViewPager_DIMENSIONS" value="1080&#10;1920" />
+    <property name="android-custom-viewE:/NikunjAndroidProject/BattleManiaV4Fille/BattleManiaV4/app/src/main/java/com/di/battlemaniaV4/utils/KKViewPager.java_SELECTED" value="KKViewPager" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="format" value="PNG" />
+    <property name="lastFolderRoot" value="$PROJECT_DIR$/../../NitroShare-feature-graphic.png" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../___Battle mania logo image___/logo-icon.png" />
+    <property name="method" value="Automatic" />
+    <property name="multi-representation-previewC:/Users/Ashutosh/Desktop/DI/BattleManiaV3/app/src/main/java/com/di/battlemaniaV3/utils/KKViewPager.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/abcd/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/androidx/viewpager/widget/ViewPager.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/abcd/Desktop/Ak/androidprojects/BattleManiaV3/app/src/main/java/com/di/battlemaniaV3/utils/KKViewPager.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/abcd/Desktop/Ak/andrtoidprojects/BattleManiaV3/app/src/main/java/com/di/battlemaniaV3/utils/KKViewPager.java_selected" value="Custom views" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="resolutions" value="XHDPI" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="sourceResolution" value="XHDPI" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
+    <option name="BUILD_VARIANTS_TAB" value="Build Types" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-468552757">
+      <recent name="com.di.battlemaniaV3.ui.activities" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.di.battlemaniaV2.ui.activities" />
+      <recent name="com.di.battlemania.ui.activities" />
+      <recent name="com.di.battlemania" />
+    </key>
+    <key name="android.template.1281950023">
+      <recent name="com.di.battlemaniaV2.ui.activities" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.di.battlemania.ui.activities" />
+      <recent name="com.di.battlemania.ui.adapters" />
+      <recent name="com.di.battlemania.models" />
+      <recent name="com.di.battlemania.ui.fragments" />
+      <recent name="com.di.battlemania.utils" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.di.battlemaniaV4.utils" />
+    </key>
+    <key name="android.template.-926895806">
+      <recent name="com.di.battlemaniaV4.ui.activities" />
+    </key>
+    <key name="android.template.-301870329">
+      <recent name="com.di.battlemaniaV3.ui.activities" />
+    </key>
+    <key name="android.template.-67822864">
+      <recent name="com.di.battlemaniaV3.ui.activities" />
+    </key>
+    <key name="android.template.-1793761773">
+      <recent name="com.di.battlemaniaV3.ui.activities" />
+    </key>
+    <key name="android.template.-1985579559">
+      <recent name="com.di.battlemaniaV3.ui.activities" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.di.battlemaniaV4.utils" />
+      <recent name="com.di.battlemaniaV3.utils" />
+    </key>
+    <key name="android.template.-551395971">
+      <recent name="com.di.battlemaniaV3.ui.activities" />
+    </key>
+    <key name="android.template.1781628785">
+      <recent name="com.di.battlemaniaV2.ui.activities" />
+    </key>
+    <key name="android.template.-1944943313">
+      <recent name="com.di.battlemaniaV2.ui.activities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Android\__DEMO__\LATEST BATTLEMANIA V5\BattleManiaV5\app" />
+      <recent name="C:\Users\abcd\Desktop\Android\BattleManiaV4\app" />
+      <recent name="E:\NikunjAndroidProject\BattleManiaV4Fille\BattleManiaV4\app\src\main\res\drawable-ldpi" />
+      <recent name="C:\Users\Android 2\Downloads\BattleManiaV3\BattleManiaV3\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\Ashutosh\Desktop\DI\BattleManiaV3\app" />
+    </key>
+    <key name="android.template.1834291985">
+      <recent name="com.di.battlemaniaV2.ui.activities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abcd\AndroidStudioProjects\BattleManiaPlus\app\src\main\java\com\di\battlemania\kotlin" />
+    </key>
+    <key name="android.template.1548531609">
+      <recent name="com.di.battlemaniaV2.ui.activities" />
+    </key>
+    <key name="android.template.27296908">
+      <recent name="com.di.battlemaniaV4.ui.activities" />
+    </key>
+    <key name="android.template.1130645961">
+      <recent name="com.di.battlemaniaV3.ui.activities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Battle_Mania_V5.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BattleManiaV2 [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BattleManiaV3 [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="check" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BattleManiaV3 [cleanBuildCache]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanBuildCache" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BattleManiaV3:app [cleanBuildCache]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanBuildCache" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BattleManiaV3:app [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.BattleManiaV2 [signingReport]" />
+        <item itemvalue="Gradle.BattleManiaV3:app [clean]" />
+        <item itemvalue="Gradle.BattleManiaV3:app [cleanBuildCache]" />
+        <item itemvalue="Gradle.BattleManiaV3 [cleanBuildCache]" />
+        <item itemvalue="Gradle.BattleManiaV3 [check]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\abcd\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14f97b31-0f2b-452d-8695-31b93af4b67a" name="Default Changelist" comment="" />
+      <created>1577533956643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577533956643</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Battle Mania V3">
+      <created>1608205214993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608205214993</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Battle Mania V3">
+      <created>1608207574895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608207574895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Battle Mania V3">
+      <created>1608209764520</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608209764520</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit f69fbec952df10d93dc8fb2df36378b11e18ecd6.">
+      <created>1608266087821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608266087821</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit f69fbec952df10d93dc8fb2df36378b11e18ecd6.">
+      <created>1608629243606</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608629243606</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit f69fbec952df10d93dc8fb2df36378b11e18ecd6.">
+      <created>1608631891612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608631891612</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Profile not change for Demo user">
+      <created>1608896813580</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608896813580</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fb app id change and otp send after mobile number check in db for google and fb login">
+      <created>1609222898659</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609222898659</updated>
+    </task>
+    <task id="LOCAL-00009" summary="after cancel fb login loading issue solve">
+      <created>1609223965000</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609223965000</updated>
+    </task>
+    <task id="LOCAL-00010" summary="setup firebase new crashlytics version">
+      <created>1609483096136</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609483096136</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Setup firebase new crashlytics version and remove kotlin dependency&#10;&#10;after change all payment gateway tested.">
+      <created>1609483375922</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609483375922</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add referral code input field for fb login and google login (firsttime)">
+      <created>1609498579673</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609498579673</updated>
+    </task>
+    <task id="LOCAL-00013" summary="coin icon change, add money--&gt; replace ₹ to point,...">
+      <created>1610518276179</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610518276179</updated>
+    </task>
+    <task id="LOCAL-00014" summary="coin icon change, add money--&gt; replace ₹ to point,...">
+      <created>1610543027475</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610543027475</updated>
+    </task>
+    <task id="LOCAL-00015" summary="coin icon change, add money--&gt; replace ₹ to point,...">
+      <created>1611033779222</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611033779222</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add baner(earn tab)">
+      <created>1611054852773</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611054852773</updated>
+    </task>
+    <task id="LOCAL-00017" summary="change sdk version firebase and facebook">
+      <created>1611233482823</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611233482823</updated>
+    </task>
+    <task id="LOCAL-00018" summary="first time open issue solve,product list issue solve and firebase crashlytics issue solve">
+      <created>1617712811167</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1617712811168</updated>
+    </task>
+    <task id="LOCAL-00019" summary="first time open issue solve,product list issue solve and firebase crashlytics issue solve">
+      <created>1617712848731</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1617712848731</updated>
+    </task>
+    <task id="LOCAL-00020" summary="int to long for wallet balance and change to Math.round in add money">
+      <created>1621426711016</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1621426711016</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+    <MESSAGE value="Battle Mania V3" />
+    <MESSAGE value="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit f69fbec952df10d93dc8fb2df36378b11e18ecd6." />
+    <MESSAGE value="Profile not change for Demo user" />
+    <MESSAGE value="Fb app id change and otp send after mobile number check in db for google and fb login" />
+    <MESSAGE value="after cancel fb login loading issue solve" />
+    <MESSAGE value="setup firebase new crashlytics version" />
+    <MESSAGE value="Setup firebase new crashlytics version and remove kotlin dependency&#10;&#10;after change all payment gateway tested." />
+    <MESSAGE value="Add referral code input field for fb login and google login (firsttime)" />
+    <MESSAGE value="coin icon change, add money--&gt; replace ₹ to point,..." />
+    <MESSAGE value="add baner(earn tab)" />
+    <MESSAGE value="change sdk version firebase and facebook" />
+    <MESSAGE value="first time open issue solve,product list issue solve and firebase crashlytics issue solve" />
+    <MESSAGE value="int to long for wallet balance and change to Math.round in add money" />
+    <option name="LAST_COMMIT_MESSAGE" value="int to long for wallet balance and change to Math.round in add money" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/main/PlayFragment.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/SelectMatchPositionActivity.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/AddMoneyActivity.java</url>
+          <line>1591</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/MainActivity.java</url>
+          <line>765</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/MainActivity.java</url>
+          <line>831</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/AddMoneyActivity.java</url>
+          <line>983</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/AddMoneyActivity.java</url>
+          <line>1554</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/AddMoneyActivity.java</url>
+          <line>646</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/fragments/FragmentSelectedTournamentDescription.java</url>
+          <line>369</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/fragments/FragmentSelectedTournamentDescription.java</url>
+          <line>426</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/MainActivity.java</url>
+          <line>247</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/CreateNewAccount.java</url>
+          <line>365</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/fragments/PlayFragment.java</url>
+          <line>391</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/SelectedTournamentActivity.java</url>
+          <line>194</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/adapters/TournamentAdapter.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/AddMoneyActivity.java</url>
+          <line>1915</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/AddMoneyActivity.java</url>
+          <line>346</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/MainActivity.java</url>
+          <line>632</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/AddMoneyActivity.java</url>
+          <line>488</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/AddMoneyActivity.java</url>
+          <line>419</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/fragments/EarnFragment.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/CustomerSupportActivity.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/CustomerSupportActivity.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/CustomerSupportActivity.java</url>
+          <line>163</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/CustomerSupportActivity.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/JoiningMatch.java</url>
+          <line>277</line>
+          <properties class="com.di.battlemaniaV5.ui.activities.JoiningMatch">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/adapters/TournamentAdapter.java</url>
+          <line>238</line>
+          <properties class="com.di.battlemaniaV5.ui.adapters.TournamentAdapter">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/AppUpdateActivity.java</url>
+          <line>300</line>
+          <properties class="com.di.battlemaniaV5.ui.activities.AppUpdateActivity">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/di/battlemaniaV5/ui/activities/AddMoneyActivity.java</url>
+          <line>1893</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

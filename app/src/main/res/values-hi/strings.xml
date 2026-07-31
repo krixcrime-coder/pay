@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battle Mania V5</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="api">https://yourdomain/api/</string>
+    <string name="Rs" formatted="false" translatable="true">\u20B9</string>
+    <string name="facebook_app_id">874043283359634</string>
+    <string name="fb_login_protocol_scheme">fb874043283359634</string>
+    <string name="admob_app_id">ca-app-pub-8534325609823184~6377822467</string>
+    <string name="admob_baner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_reward">ca-app-pub-3940256099942544/5224354917</string>
+
+    <!--SelectedLanguageAcivity-->
+    <string name="choose_language">Choose Language</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="arabic">عربى</string>
+    <string name="hindi_e">Hindi</string>
+    <string name="arabic_e">Arabic</string>
+
+    <string name="qr_code">qr_code</string>
+    <string name="enter_your_info">Enter your info</string>
+
+
+    <!--For language-->
+    <!--AddMoneyActivity-->
+    <string name="payment_method_not_available">भुगतान विधि उपलब्ध नहीं है</string>
+    <string name="amount_bracket">रकम</string>
+    <string name="error">त्रुटि!</string>
+    <string name="enter_minmum">न्यूनतम दर्ज करें </string>
+    <string name="ok">ठीक है</string>
+    <string name="please_update_profile_with_email">कृपया ईमेल से प्रोफाइल अपडेट करें।</string>
+    <string name="please_enter_card_number">कृपया कार्ड नंबर दर्ज करें</string>
+    <string name="please_enter_cvv">कृपया सीवीवी दर्ज करें</string>
+    <string name="please_enter_expiry_month">कृपया समाप्ति माह दर्ज करें</string>
+    <string name="please_enter_expiry_year">कृपया समाप्ति वर्ष दर्ज करें</string>
+    <string name="please_update_profile_with_email_and_mobile_number">कृपया ईमेल और मोबाइल नंबर के साथ प्रोफाइल अपडेट करें।</string>
+    <string name="please_update_profile_with_mobile_number">कृपया मोबाइल नंबर के साथ प्रोफाइल अपडेट करें।</string>
+    <string name="google_pay_not_installed">गूगल पे इंस्टाल नहीं है।</string>
+    <string name="payment_transaction_failed">भुगतान लेनदेन विफल</string>
+    <string name="pay_for_">के लिए भुगतान </string>
+    <string name="_wallet"> बटुआ</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="invalid">अमान्य</string>
+    <string name="tron_desc">कृपया क्यूआर कोड को स्कैन करें या दिए गए समय के भीतर अनुबंध पते की प्रतिलिपि बनाएँ और अगले पर जाने के बाद इस वॉलेट में टोकन जोड़ें।</string>
+    <string name="payment_cancelled">भुगतान रद्द</string>
+    <string name="you_will_get_">तुम्हे मिल जाएगा </string>
+    <string name="you_will_pay_">तुम भुगतान करोगे </string>
+    <!--AppUpdateActivity-->
+    <string name="downloading...">डाउनलोड हो रहा है...</string>
+    <string name="permission_needed">अनुमति की आवश्यकता</string>
+    <string name="this_permission_is_needed_because_of_download_the_latest_version_of_">के नवीनतम संस्करण को डाउनलोड करने के कारण इस अनुमति की आवश्यकता है </string>
+    <string name="updating...">अपडेट हो रहा है....</string>
+    <string name="download_completed">डाउनलोड सम्पन्न हुआ</string>
+    <string name="storage_permission_denied">संग्रहण अनुमति अस्वीकृत</string>
+    <string name="permission_granted">अनुमति प्रदान की गई</string>
+    <string name="install_permission_denied">अनुमति अस्वीकृत स्थापित करें</string>
+    <string name="app_not_found_in_download">ऐप डाउनलोड में नहीं मिला</string>
+    <!--CreateNewAccount-->
+    <string name="username_required...">उपयोगकर्ता का नाम (आवश्यक...</string>
+    <string name="no_space_allowed">कोई जगह की अनुमति नहीं है</string>
+    <string name="please_select_country_code">कृपया देश कोड चुनें</string>
+    <string name="mobile_number_required...">मोबाइल नंबर चाहिए...</string>
+    <string name="wrong_mobile_number...">गलत मोबाइल नंबर...</string>
+    <string name="email_required...">ईमेल (अनिवार्य...</string>
+    <string name="wrong_email_address...">गलत ई - मेल...</string>
+    <string name="please_select_country">कृपया देश चुनें</string>
+    <string name="password_required...">पासवर्ड आवश्यक...</string>
+    <string name="retype_your_password...">अपना पासवर्ड पुनः लिखें...</string>
+    <string name="password_not_matched...">पासवर्ड का मिलान नहीं हुआ...</string>
+    <string name="otp_send_successfully">ओटीपी सफलतापूर्वक भेजें</string>
+    <string name="failed">अनुत्तीर्ण होना</string>
+    <string name="registration_successfully">पंजीकरण सफलतापूर्वक</string>
+    <!--CustomerSupportActivity-->
+    <string name="address__">पता: </string>
+    <string name="additional__">अतिरिक्त जानकारी : </string>
+    <string name="phone__">फ़ोन : </string>
+    <string name="email__">ईमेल : </string>
+    <string name="instagram__">इंस्टाग्राम: </string>
+    <string name="street__">सड़क : </string>
+    <string name="time__">समय : </string>
+    <string name="send_mail...">मेल भेजे...</string>
+    <string name="there_are_no_email_apps_installed">कोई ईमेल ऐप्स इंस्टॉल नहीं हैं।</string>
+    <string name="whatsapp_not_found">व्हाट्सएप नहीं मिला</string>
+    <!--FirstActivity-->
+    <string name="your_account_is_blocked_by_admin">आपका खाता व्यवस्थापक द्वारा अवरुद्ध कर दिया गया है</string>
+    <string name="new_update_available">नई सूचना उपलब्ध है...</string>
+    <string name="later">बाद में</string>
+    <string name="update_now">अभी अद्यतन करें</string>
+    <string name="announcement">घोषणा :</string>
+    <string name="currently_app_server_is_under_maintanance">वर्तमान ऐप सर्वर रखरखाव के अधीन है।</string>
+    <string name="exit">बाहर जाएं</string>
+    <!--FpOtpVerificationActivity-->
+    <string name="wrong_otp">गलत ओटीपी.</string>
+    <string name="resend">पुन: भेजें</string>
+    <string name="enter_new_password">नया पासवर्ड दर्ज करें</string>
+    <string name="retype_new_password">नया पासवर्ड दोबारा टाइप करें</string>
+    <string name="password_not_match">पासवर्ड मेल नहीं खाता</string>
+    <!--HomeActivity-->
+    <string name="earn">कमाना</string>
+    <string name="play">खेल</string>
+    <string name="account">खाता</string>
+    <string name="press_again_to_exit">बाहर निकलने के लिए फिर से दबाएं</string>
+    <!--JoiningMatch-->
+    <string name="_name"> नाम</string>
+    <string name="your_current_balance__">आपका वर्तमान शेष: </string>
+    <string name="match_entry_fee_per_person__">प्रति व्यक्ति मैच प्रवेश शुल्क: </string>
+    <string name="total_payable_amount__">कुल देय राशि:</string>
+    <string name="add_info">जानकारी जोड़ें</string>
+    <string name="player_name_required">खिलाड़ी का नाम आवश्यक</string>
+    <string name="team_">टीम </string>
+    <string name="please_enter_player_name">कृपया खिलाड़ी का नाम दर्ज करें</string>
+    <string name="please_enter_unique_player_name">कृपया अद्वितीय खिलाड़ी का नाम दर्ज करें</string>
+    <string name="ONGOING">चल रही है</string>
+    <string name="RESULTS">परिणाम</string>
+    <!--MainActivity-->
+    <string name="forgot_password__reset_now">पासवर्ड भूल गए? अभी रीसेट करें</string>
+    <string name="mobile_number_successfully_verified">मोबाइल नंबर सफलतापूर्वक सत्यापित</string>
+    <string name="login_successfully">सफलतापूर्वक लॉगिन करें</string>
+    <string name="we_will_sent_you_otp_in_">हम आपको OTP भेजेंगे </string>
+    <!--MyProfileActivity-->
+    <string name="verified">सत्यापित</string>
+    <string name="verify">सत्यापित करें</string>
+    <string name="please_verify_mobile_number">कृपया मोबाइल नंबर सत्यापित करें</string>
+    <string name="select_country">देश चुनें</string>
+    <string name="enter_password">पास वर्ड दर्ज करें</string>
+    <!--MyReferralsActivity-->
+    <string name="referrals">रेफरल</string>
+    <string name="earnings">आय</string>
+    <!--MyRewardedActivity-->
+    <string name="rewards">पुरस्कार</string>
+    <!--MyWalletActivity-->
+    <string name="win_money">पैसा जीतो : </string>
+    <string name="join_money">पैसे से जुड़ें: </string>
+    <!--ProductOrderActivity-->
+    <string name="please_enter_your_name">अपना नाम दर्ज करें</string>
+    <string name="please_enter_your_address">कृपया अपना पता दर्ज करें</string>
+    <!--ReferandEarnActivity-->
+    <string name="promo_code">प्रचार कोड</string>
+    <string name="copid_to_clipboard">क्लिपबोर्ड पर नकल</string>
+    <string name="promo_code_copied_successfully">प्रोमो कोड सफलतापूर्वक कॉपी किया गया</string>
+    <string name="referral_code">रेफरल कोड</string>
+    <string name="share_using">का उपयोग करके साझा करें</string>
+    <!--SelectedGameActivity-->
+    <string name="ongoing">चल रही है</string>
+    <string name="upcoming">आगामी</string>
+    <string name="results">परिणाम</string>
+    <!--SelectedLotteryActivity-->
+    <string name="description">विवरण</string>
+    <string name="joined_member">शामिल हुए सदस्य</string>
+    <string name="register">संदर्भ करें</string>
+    <string name="registered">दर्ज कराई</string>
+    <string name="full">पूर्ण</string>
+    <string name="you_are_already_registered">आप पहले से ही पंजीकृत हैं।</string>
+    <string name="organised_on">पर आयोजित</string>
+    <string name="match">मैच</string>
+    <string name="winning_prize">पुरस्कार जीतना</string>
+    <string name="per_kill">प्रति किल</string>
+    <string name="entry_fee">प्रवेश शुल्क</string>
+    <!--SelectedTournamentActivity-->
+    <string name="match_full">पूरा मैच</string>
+    <string name="already_joined">पहले ही शामिल हो चुके हैं</string>
+    <string name="spectate">स्पेक्टेट</string>
+    <string name="please_select_any_position">कृपया किसी भी पद का चयन करें</string>
+    <string name="you_can_select_only">आप केवल चयन कर सकते हैं</string>
+    <string name="spot_in_solo.">सोलो में स्पॉट।</string>
+    <string name="spot_in_duo.">डुओ में स्पॉट।</string>
+    <string name="spot_in_squad.">दस्ते में जगह।</string>
+    <string name="spot_in_squad5.">स्क्वाड5 में स्थान।</string>
+    <!--TansactionSuccessActivity-->
+    <string name="transaction_id">लेन-देन आईडी</string>
+    <string name="transaction_amount_is">लेन-देन राशि है</string>
+    <!--WatchAndEarnActivity-->
+    <string name="please_wait">कृपया प्रतीक्षा करें</string>
+    <string name="task_completed">कार्य संपूर्ण हुआ</string>
+    <string name="watch_now">अब देखिए</string>
+    <string name="unable_to_load_video">आपके लिए कोई वीडियो टास्क उपलब्ध नहीं है</string>
+    <!--WithdrawMoneyActivity-->
+    <string name="withdraw_method_not_available">निकासी विधि उपलब्ध नहीं है</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="email">ईमेल</string>
+    <string name="upi_id">यूपीआई आईडी</string>
+    <string name="withdraw_wallet_address">वॉलेट का पता</string>
+    <string name="withdraw_to_">निकालना से </string>
+    <string name="please_enter_mobile_number">कृपया मोबाइल नंबर दर्ज करें</string>
+    <string name="please_enter_email">कृपया ईमेल दर्ज करें</string>
+    <string name="please_enter_wallet_address">कृपया वॉलेट पता दर्ज करें</string>
+    <string name="please_enter_valid_wallet_address">कृपया मान्य वॉलेट पता दर्ज करें</string>
+    <string name="please_enter_upi_id">कृपया UPI आईडी दर्ज करें</string>
+    <string name="success">सफल!</string>
+
+    <!--AllgameResultAdapter-->
+    <string name="PRIZE_POOL">कीमत पूल</string>
+    <string name="PER_KILL">प्रति किल</string>
+    <string name="NOT_JOINED">शामिल नहीं हुआ</string>
+    <string name="JOINED">में शामिल हो गए</string>
+    <!--LotteryAdapter-->
+    <string name="lottery">लॉटरी</string>
+    <!--LotteryResultAdapter-->
+    <string name="won_prize__">पुरस्कार जीता: </string>
+    <string name="draw_on">खींचना पर</string>
+    <string name="won_by">द्वारा जीता</string>
+    <!--TournamentAdapter-->
+    <string name="MATCH_FULL">पूरा मैच</string>
+    <string name="you_are_already_joined">आप पहले ही शामिल हो चुके हैं</string>
+    <!--TransactionAdapter-->
+    <string name="debit">डेबिट</string>
+    <string name="credit">जमा करना</string>
+    <string name="pending">रूका हुआ</string>
+    <!--OrderAdapter-->
+    <string name="price__">कीमत : </string>
+    <!--FragmentSelectedLotteryDescription-->
+    <string name="result_on">परिणाम जारी</string>
+    <string name="play_for">के लिए खेलो</string>
+    <string name="fees">फीस</string>
+    <!--FragmentSelectedLotteryJoinedeMember-->
+    <string name="winner">विजेता</string>
+    <!--FragmentSelectedTournamentDescription-->
+    <string name="PAID">भुगतान किया है</string>
+    <string name="FREE">नि: शुल्क</string>
+    <string name="room_id">रूम आईडी</string>
+    <string name="room_id_copied_successfully">रूम आईडी सफलतापूर्वक कॉपी किया गया</string>
+    <string name="room_password">Room Password</string>
+    <string name="room_password_copied_successfully">रूम पासवर्ड सफलतापूर्वक कॉपी किया गया</string>
+    <string name="edit_playername">खिलाड़ी का नाम संपादित करें</string>
+    <string name="save">सहेजें</string>
+    <!--MeFragment-->
+    <string name="version">संस्करण</string>
+    <string name="log_out_successfully">सफलतापूर्वक लॉग आउट करें</string>
+    <!--PlayFragment-->
+    <string name="match_available_">उपलब्ध मैच: </string>
+    <string name="no_announcement_available">कोई घोषणा उपलब्ध नहीं</string>
+
+    <!--activity_aboutus-->
+    <string name="about_us">हमारे बारे में</string>
+    <!--activity_add_money-->
+    <string name="add_money">पैसे जोड़ें</string>
+    <string name="ADD_MONEY">पैसे जोड़ें</string>
+    <string name="paystack_note">नोट: \nपरीक्षण उपयोग के लिए \nकार्ड संख्या: 4084084084084081\nCVV: 408\nसमाप्ति माह और समाप्ति वर्ष: भविष्य में कोई भी समय</string>
+    <!--activity_announcement-->
+    <string name="Announcement">घोषणा</string>
+    <!--activity_app_update-->
+    <string name="app_update">ऐप अपडेट</string>
+    <!--activity_create_new_account-->
+    <string name="username">उपयोगकर्ता नाम *</string>
+    <string name="code">कोड</string>
+    <string name="mobile">मोबाइल *</string>
+    <string name="Email">ईमेल *</string>
+    <string name="country">देश</string>
+    <string name="password">पासवर्ड *</string>
+    <string name="SIGNUP">साइन अप करें</string>
+    <string name="LOGIN">लॉग इन करें</string>
+    <!--activity_customer_support-->
+    <string name="customer_support">ग्राहक सहेयता</string>
+    <!--activity_fp_otp_verification-->
+    <string name="verification">सत्यापन</string>
+    <string name="otp_note">सत्यापन कोड दर्ज करें जो हमने आपको अभी एसएमएस/ईमेल के माध्यम से भेजा है।</string>
+    <string name="otp_note_2">यदि आपको कोई कोड प्राप्त नहीं हुआ है!</string>
+    <!--activity_howto-->
+    <string name="app_tutorial">ऐप ट्यूटोरियल</string>
+    <string name="change_language">भाषा बदलो</string>
+    <!--activity_introduction-->
+    <string name="dont_have_an_account">खाता नहीं है?</string>
+    <string name="already_a_user">पहले से ही एक उपयोगकर्ता?</string>
+    <!--activity_joining_match-->
+    <string name="joining_match">मैच में शामिल होना</string>
+    <string name="selected_position">चयनित स्थिति</string>
+    <string name="team">टीम</string>
+    <string name="position">पोजीशन</string>
+    <string name="player_name">खिलाड़ी का नाम</string>
+    <string name="join">जुड़ना</string>
+    <string name="join_note">नोट - कृपया अपना इन गेम उपयोगकर्ता नाम/नाम दर्ज करें।</string>
+    <!--activity_leaderboard-->
+    <string name="leaderboard">लीडरबोर्ड</string>
+    <string name="Username">उपयोगकर्ता नाम</string>
+    <string name="total_referral">कुल रेफरल</string>
+    <!--activity_main-->
+    <string name="login">लॉग इन करें</string>
+    <string name="Password">पासवर्ड</string>
+    <string name="continue_with_facebook">फेसबुक के साथ जारी रखें</string>
+    <string name="continue_with_google">गूगल के साथ जारी रखें</string>
+    <string name="create_new_account">नया खाता बनाएँ</string>
+    <!--activity_my_profile-->
+    <string name="my_profile">मेरी प्रोफाइल</string>
+    <string name="edit_profile">प्रोफ़ाइल संपादित करें</string>
+    <string name="first_name">पहला नाम</string>
+    <string name="last_name">अंतिम नाम</string>
+    <string name="email_address">ई-मेल एड्रेस</string>
+    <string name="date_of_birth">जन्म की तारीख</string>
+    <string name="gender">लिंग:</string>
+    <string name="male">पुरुष</string>
+    <string name="female">महिला</string>
+    <string name="country__">देश : </string>
+    <string name="update_profile">प्रोफ़ाइल अपडेट करें</string>
+    <string name="reset_password">पासवर्ड रीसेट</string>
+    <string name="old_password">पुराना पासवर्ड</string>
+    <string name="new_password">नया पासवर्ड</string>
+    <string name="retype_new_pass">नया पासवर्ड दोबारा टाइप करें</string>
+    <string name="reset">रीसेट</string>
+    <!--activity_my_referrals-->
+    <string name="my_referrals">मेरा सिफ़ारिशें</string>
+    <string name="my_referrals_summary">मेरे संदर्भ सारांश</string>
+    <string name="my_referrals_list">मेरी संदर्भ सूची</string>
+    <string name="date">तारीख</string>
+    <string name="status">स्थिति</string>
+    <string name="no_referrals_found">कोई रेफ़रल नहीं मिला.</string>
+    <!--activity_my_rewarded-->
+    <string name="my_reward">मेरे पुरस्कार</string>
+    <string name="my_rewards_summary">मेरे पुरस्कार सारांश</string>
+    <string name="my_rewards_list">मेरी पुरस्कार सूची</string>
+    <string name="no_rewards_yet">अभी तक कोई पुरस्कार नहीं।</string>
+    <!--activity_my_statistics-->
+    <string name="my_statistics">मेरे आंकड़े</string>
+    <string name="match_info">मैच की जानकारी</string>
+    <string name="paid">फ़ीस देनेवाला</string>
+    <string name="won">जीत लिया</string>
+    <!--activity_my_wallet-->
+    <string name="my_wallet">मेरा बटुआ</string>
+    <string name="add">जोड़ें</string>
+    <string name="withdraw">निकालना</string>
+    <string name="payouts">भुगतान</string>
+    <string name="wallet_history">वॉलेट इतिहास</string>
+    <string name="total_balance">कुल शेष</string>
+    <!--activity_no_internet-->
+    <string name="no_internet_connection">कोई इंटरनेट कनेक्शन नहीं।</string>
+    <!--activity_offline_payment-->
+    <string name="payment_desc">भुगतान का विवरण</string>
+    <!--activity_product-->
+    <string name="shop_now">अभी खरीदो</string>
+    <!--activity_product_order-->
+    <string name="full_name">पूरा नाम</string>
+    <string name="address">पता</string>
+    <string name="additional">अतिरिक्त जानकारी</string>
+    <string name="buy_now">अभी खरीदें</string>
+    <!--activity_referand_earn-->
+    <string name="refer_more_to_earn_more">अधिक कमाने के लिए अधिक देखें</string>
+    <string name="your_referral_code">आपका रेफरल कोड</string>
+    <string name="refer_now">अभी देखें</string>
+    <!--activity_select_match_position-->
+    <string name="select_match_position">मैच की स्थिति चुनें</string>
+    <string name="join_now">अब सम्मिलित हों</string>
+    <!--activity_selected_result-->
+    <string name="match_result">मैच परिणाम</string>
+    <string name="kills">किल</string>
+    <string name="winning">जीत</string>
+    <string name="full_result">पूर्ण परिणाम</string>
+    <!--activity_selected_tournament-->
+    <string name="Join_now">अब सम्मिलित हों</string>
+    <!--activity_single_product-->
+    <string name="product_details">उत्पाद विवरण</string>
+    <!--activity_success_join-->
+    <string name="you_have_joined_successfully">आप सफलतापूर्वक शामिल हो गए हैं।</string>
+    <string name="home">घर</string>
+    <!--activity_success_order-->
+    <string name="order_placed_successfully">आदेश सफलतापूर्वक दिया गया।</string>
+    <!--activity_tansaction_success-->
+    <string name="your_transaction_is_success">आपका लेन-देन सफल है।</string>
+    <!--activity_termsand_condition-->
+    <string name="terms_and_condition">नियम एवं शर्तें</string>
+    <!--activity_top_player-->
+    <string name="top_players">शीर्ष खिलाड़ी</string>
+    <!--activity_transaction_fail-->
+    <string name="your_transaction_is_fail">आपका लेन-देन विफल हो गया है।</string>
+    <!--activity_watch_and_earn-->
+    <string name="watch_more_to_earn_more">अधिक कमाने के लिए और देखें</string>
+    <string name="complete_tast">पूरा कार्य</string>
+    <!--activity_withdraw_money-->
+    <string name="withdraw_money">पैसा निकालना</string>
+    <string name="Amount">रकम</string>
+    <string name="withdraw_to">वापस ले लें:</string>
+    <string name="you_can_only_withdraw_win_money">आप केवल जीत के पैसे निकाल सकते हैं।</string>
+    <!--activity_player_details_data-->
+    <string name="join_match">मैच में शामिल हों</string>
+    <string name="make_sure_you_have_entered_correct_information">सुनिश्चित करें कि आपने सही जानकारी दर्ज की है</string>
+    <!--allgameresultdata-->
+    <string name="watch_match">देख </string>
+    <!--dobpicker-->
+    <string name="set">सेट</string>
+    <!--enter_mobile_dialog-->
+    <string name="submit">भेजने</string>
+    <!--fragment_selectedlottery_description-->
+    <string name="about_lottery">लॉटरी के बारे में</string>
+    <!--fragment_selectedlottery_joinedmember-->
+    <string name="no_member_joined_yet">अभी तक कोई सदस्य शामिल नहीं हुआ</string>
+    <!--fragment_selectedtournament_description-->
+    <string name="Team__">टीम : </string>
+    <string name="Entry_Fee_">प्रवेश शुल्क : </string>
+    <string name="Mode__">मोड : </string>
+    <string name="Match_Type__">मैच प्रकार : </string>
+    <string name="Map__">नक्शा : </string>
+    <string name="Match_Schedule__">मैच शेड्यूल : </string>
+    <string name="price_details">मूल्य विवरण</string>
+    <string name="Winning_Prize__">पुरस्कार जीतना : </string>
+    <string name="Per_Kill__">प्रति किल : </string>
+    <string name="about_this_match">इस मैच के बारे में</string>
+    <string name="play_now">अब खेलते हैं</string>
+    <string name="Password__">पासवर्ड : </string>
+    <string name="Id__">आईडी : </string>
+    <string name="room_detail">रूम विवरण</string>
+    <string name="matchprivaDesc_detail">निजी विवरण का मिलान करें</string>
+    <!--howto_view-->
+    <string name="play_in_youtube">यूट्यूब में देखना</string>
+    <!--introduction1-->
+    <string name="select_a_game">एक गेम चुनें</string>
+    <string name="intro1desc">अपने पसंदीदा गेम की प्रतियोगिता में शामिल हों और असली पैसे जीतें</string>
+    <!--introduction2-->
+    <string name="join_a_match">एक मैच में शामिल हों</string>
+    <string name="intro2desc">SOLO, DUO या SQUAD . जैसे अपने गेमप्ले के अनुसार सामग्री में शामिल हों</string>
+    <!--introduction3-->
+    <string name="Reder_And_Earn">संदर्भ लें और कमाएं</string>
+    <string name="intro3desc">अपने दोस्तों को उनका पसंदीदा गेम खेलने के लिए आमंत्रित करें और इनाम पाएं</string>
+    <!--me_home-->
+    <string name="me">मे</string>
+    <string name="balance">संतुलन</string>
+    <string name="matches">मैच</string>
+    <string name="played">खेला</string>
+    <string name="total">संपूर्ण</string>
+    <string name="killed">किल</string>
+    <string name="Won">जीत लिया</string>
+    <string name="push_notification">सूचनाएं भेजना</string>
+    <string name="my_matches">मेरे मैच</string>
+    <string name="Anouncement">घोषणा</string>
+    <string name="share_app">ऐप शेयर करें</string>
+    <string name="logout">लॉग आउट</string>
+    <!--ongoing_home-->
+    <string name="no_live_match_found">कोई लाइव मैच नहीं मिला।</string>
+    <!--play_home-->
+    <string name="no_game_found">कोई गेम नहीं मिला.</string>
+    <!--resetpassword-->
+    <string name="email_mobile_no">ईमेल/मोबाइल नं.</string>
+    <!--result_home-->
+    <string name="no_completed_match_found">कोई पूरा मैच नहीं मिला।</string>
+    <!--tournament_data-->
+    <string name="JOIN">जुड़ना</string>
+    <!--upcoming_home-->
+    <string name="no_upcoming_match_found">कोई आगामी मैच नहीं मिला।</string>
+    <string name="no_lottery_result_found">कोई लॉटरी परिणाम नहीं मिला।</string>
+    <string name="no_ongoing_lottery_found.">कोई चालू लॉटरी नहीं मिली।</string>
+    <!--activity_my_order-->
+    <string name="my_order">मेरा ऑर्डर</string>
+    <!--activity_single_order-->
+    <string name="name">नाम : </string>
+    <string name="status__">स्थिति : </string>
+    <string name="date__">ऑर्डर की तारीख : </string>
+    <string name="track_order">ऑर्डर पर नज़र रखें : </string>
+    <!--showcase text-->
+    <string name="show_case_1">चयनित गेम की टूर्नामेंट सूची दिखाने के लिए यहां टैप करें</string>
+    <string name="show_case_2">अपना वॉलेट दिखाने के लिए यहां टैप करें</string>
+    <string name="show_case_3">इस टूर्नामेंट में शामिल होने के लिए यहां टैप करें</string>
+    <string name="show_case_4">वॉलेट में अंक जोड़ने के लिए यहां टैप करें</string>
+    <string name="show_case_5">वॉलेट से अंक निकालने के लिए यहां टैप करें</string>
+    <string name="addchallge">New Contest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ongoingludo">ONGOING</string>
+    <string name="mycontest">MY CONTEST</string>
+    <string name="resultsludo">RESULTS</string>
+</resources>

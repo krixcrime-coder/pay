@@ -1,0 +1,2 @@
+include ':app', ':cashfreeSDK'
+rootProject.name='Battle Mania V5'
