@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Selected -> bright white, unselected -> dimmed white. Handled here
-     (not via BottomNavigationView's itemIconTint) because that attribute
-     applies globally and would also recolor the Earn tab's full-color
-     coin PNG, wiping out its orange/yellow art. -->
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@drawable/ic_nav_play_bright" android:state_checked="true" />
-    <item android:drawable="@drawable/ic_nav_play_dim" />
-</selector>
